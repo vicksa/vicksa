@@ -87,13 +87,13 @@ class Vick:
 
 ---
 
-### 🎯 Objetivos para 2025
+### 🎯 Objetivos para 2026
 
 - [ ] 🤖 Concluir projeto de Machine Learning end-to-end
 - [ ] ☁️ Obter certificação **Azure AI Fundamentals**
 - [ ] 🐳 Dominar orquestração de containers com **Docker + Kubernetes**
 - [ ] 🔄 Automatizar fluxos com **Power Automate + Python**
-- [ ] 📂 Publicar primeiros projetos de IA no GitHub
+- [ ] 📂 Publicar primeiros projetos completos no GitHub
 
 ---
 
