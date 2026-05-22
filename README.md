@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Oi!,%2Eu sou a%20Vick!%20👋&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Oi%2C%20eu%20sou%20a%20Vick!%20%F0%9F%91%8B&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Engenharia+de+Software+%F0%9F%92%BB;Ciência+de+Dados+%F0%9F%93%8A;IA+%7C+Machine+Learning+%7C+Automação+%F0%9F%A4%96;Código%2C+Games+%26+Anime+%F0%9F%8E%AE" alt="Typing SVG" />
@@ -95,7 +95,7 @@ class Vick:
 - [ ] ☁️ Obter certificação **Azure AI Fundamentals**
 - [ ] 🐳 Dominar orquestração de containers com **Docker + Kubernetes**
 - [ ] 🔄 Automatizar fluxos com **n8n, Power Automate + Python**
-- [ ] 📂 Publicar primeiros projetos de IA no GitHub
+- [ ] 📂 Publicar primeiros projetos completos no GitHub
 
 ---
 
