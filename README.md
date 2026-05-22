@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Vick!%20👋&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Oi!,%2Eu sou a%20Vick!%20👋&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Engenharia+de+Software+%F0%9F%92%BB;Ciência+de+Dados+%F0%9F%93%8A;IA+%7C+Machine+Learning+%7C+Automação+%F0%9F%A4%96;Código%2C+Games+%26+Anime+%F0%9F%8E%AE" alt="Typing SVG" />
@@ -30,7 +30,7 @@ class Vick:
             "Ciência de Dados @ UNIVESP"
         ]
         self.foco       = ["IA", "Machine Learning", "Automação"]
-        self.stack      = ["Python", "Docker", "Azure", "C#", "JS"]
+        self.stack      = ["Python", "Docker", "Azure", "C#", "JS", "n8n 🔀"]
         self.hobbies    = ["🎮 Games", "📚 Leitura", "✏️ Desenho"]
 
     def atualmente(self):
@@ -58,6 +58,7 @@ class Vick:
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 **Aprendendo**
@@ -73,16 +74,17 @@ class Vick:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicksa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicksa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&cache_seconds=1800"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vicksa&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=vicksa&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicksa&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicksa&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=7C3AED&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -92,8 +94,8 @@ class Vick:
 - [ ] 🤖 Concluir projeto de Machine Learning end-to-end
 - [ ] ☁️ Obter certificação **Azure AI Fundamentals**
 - [ ] 🐳 Dominar orquestração de containers com **Docker + Kubernetes**
-- [ ] 🔄 Automatizar fluxos com **Power Automate + Python**
-- [ ] 📂 Publicar primeiros projetos completos no GitHub
+- [ ] 🔄 Automatizar fluxos com **n8n, Power Automate + Python**
+- [ ] 📂 Publicar primeiros projetos de IA no GitHub
 
 ---
 
