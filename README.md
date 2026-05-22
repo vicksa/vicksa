@@ -1,48 +1,118 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Vick!%20%F0%9F%91%8B&fontSize=60&fontAlignY=38&animation=fadeIn" width="100%"/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engenharia+de+Software;Ciência+de+Dados;Apaixonada+por+Código,+Games+e+Anime&v=1" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Vick!%20👋&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Engenharia+de+Software+%F0%9F%92%BB;Ciência+de+Dados+%F0%9F%93%8A;IA+%7C+Machine+Learning+%7C+Automação+%F0%9F%A4%96;Código%2C+Games+%26+Anime+%F0%9F%8E%AE" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/vicksa?style=social)](https://github.com/vicksa)
+[![Profile views](https://komarev.com/ghpvc/?username=vicksa&color=7c3aed&style=flat-square&label=Visitas+ao+perfil)](https://github.com/vicksa)
+
 </div>
 
 ---
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding gif"/>
 
 ### 👩🏻‍💻 Sobre Mim
 
-- 🎓 Estudante de **Engenharia de Software** na UNILINS e **Ciência de Dados** na UNIVESP.
-- 🤖 Focada na construção de carreira em **Inteligência Artificial, Machine Learning e Automação**.
-- 🛠️ Atualmente aprofundando conhecimentos em **Python, Docker, Azure e automação de fluxos**.
-- 🎮 Nas horas vagas: Jogando, lendo, desenhando e principalmente estudando.
+```python
+class Vick:
+    def __init__(self):
+        self.nome       = "Victoria"
+        self.username   = "vicksa"
+        self.localidade = "Brasil 🇧🇷"
+        self.graduação  = [
+            "Engenharia de Software @ UNILINS",
+            "Ciência de Dados @ UNIVESP"
+        ]
+        self.foco       = ["IA", "Machine Learning", "Automação"]
+        self.stack      = ["Python", "Docker", "Azure", "C#", "JS"]
+        self.hobbies    = ["🎮 Games", "📚 Leitura", "✏️ Desenho"]
+
+    def atualmente(self):
+        return "Aprofundando Python, Docker & Azure ☁️"
+```
+
+<br clear="right"/>
 
 ---
 
-### 🚀 Minhas Tecnologias
+### 🚀 Stack de Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+**Ferramentas & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+**Aprendendo**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0D1117?style=for-the-badge&logo=power-automate&logoColor=0066FF)
+
 </div>
 
-<br>
+---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicksa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicksa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vicksa&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicksa&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
 
-### 📫 Como me encontrar
+### 🎯 Objetivos para 2025
+
+- [ ] 🤖 Concluir projeto de Machine Learning end-to-end
+- [ ] ☁️ Obter certificação **Azure AI Fundamentals**
+- [ ] 🐳 Dominar orquestração de containers com **Docker + Kubernetes**
+- [ ] 🔄 Automatizar fluxos com **Power Automate + Python**
+- [ ] 📂 Publicar primeiros projetos de IA no GitHub
+
+---
+
+### 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="mailto:victoria.lourencini14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/victoria-arine-esposito-lourencini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.lourencini14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-arine-esposito-lourencini/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicksa)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+*"A jornada de mil milhas começa com um único commit."* 💜
+
 </div>
