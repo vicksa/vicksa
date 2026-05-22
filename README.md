@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Vick!%20%F0%9F%91%8B&fontSize=60&fontAlignY=38&animation=fadeIn" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engenharia+de+Software;Ciência+de+Dados;Apaixonada+por+Código,+Games+e+Anime" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engenharia+de+Software;Ciência+de+Dados;Apaixonada+por+Código,+Games+e+Anime&v=1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 - 🎓 Estudante de **Engenharia de Software** na UNILINS e **Ciência de Dados** na UNIVESP.
 - 🤖 Focada na construção de carreira em **Inteligência Artificial, Machine Learning e Automação**.
 - 🛠️ Atualmente aprofundando conhecimentos em **Python, Docker, Azure e automação de fluxos**.
-- 🎮 Nas horas vagas: Jogando, lendo desenhando e principalmente estudando
+- 🎮 Nas horas vagas: Jogando, lendo, desenhando e principalmente estudando.
 
 ---
 
@@ -34,8 +34,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicksa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicksa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1"/>
 </div>
 
 ---
@@ -44,5 +44,5 @@
 
 <div align="center">
   <a href="mailto:victoria.lourencini14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/SEU_LINKEDIN_AQUI"](https://www.linkedin.com/in/victoria-arine-esposito-lourencini/)><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/victoria-arine-esposito-lourencini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
